@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <div style="padding:1rem;border:2px dashed #aaa;margin:2rem 0;">
         <h3>Try Our Smart AI Tool</h3>
         <p>Discover your personalized experience.</p>
-        <a href="${landerURL}" style="padding:8px 16px;background:#000;color:#fff;text-decoration:none;">Visit Now</a>
+        <a href="${landerURL}" style="padding:8px 16px;background:#000;color:#fff;text-decoration:none;">Discover Smarter Solutions</a>
       </div>
     `;
   } else {
